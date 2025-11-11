@@ -79,4 +79,12 @@ export const sections = [
         github: 'https://github.com/carlosmorenodev/form-react',
         preview: 'https://carlosmorenodev.github.io/form-react/'
     },
+    {
+        id: 1,
+        title: 'Twitter Clone',
+        categories: ['nextjs'],
+        img: 'twitter-clone.png',
+        github: 'https://github.com/carlosmorenodev/twitter-clone',
+        preview: 'https://carlosmm-twitter-clone.vercel.app/'
+    },
 ];

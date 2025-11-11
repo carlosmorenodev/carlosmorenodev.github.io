@@ -36,6 +36,7 @@ const Filtro2 = () => {
                     <button onClick={() => setActiveFilter('vanilla javascript')}>Vanilla JavaScript</button>
                     <button onClick={() => setActiveFilter('react')}>React</button>
                     <button onClick={() => setActiveFilter('astro')}>Astro</button>
+                    <button onClick={() => setActiveFilter('nextjs')}>Next.js</button>
                 </div>
 
                 <div className={styles.projectWrapper}>
